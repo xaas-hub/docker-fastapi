@@ -1,0 +1,34 @@
+# Build artifacts
+*.tar
+*.tar.gz
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Docker
+.docker/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+.tmp/
+
+# Various
+.claude*
+venv/
+__pycache__/
+*.pyc
+
+# Linter
+megalinter-reports/
+*.cache
+core.*
