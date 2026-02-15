@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.2.0](https://github.com/xaas-hub/docker-fastapi/compare/v0.1.0...v0.2.0) (2026-02-15)
+
+### Features
+
+* add email_validator, phonenumbers and dnspython ([d6a4c99](https://github.com/xaas-hub/docker-fastapi/commit/d6a4c991f0002060b598ccafdc9f9787c3b3e59a))
+
 ## [0.1.0](https://github.com/xaas-hub/docker-fastapi/compare/v0.0.0...v0.1.0) (2026-02-12)
 
 ### Features
